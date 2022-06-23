@@ -1,4 +1,4 @@
-# Dimploma
+# Diploma
 Implementation algorithms of Scheduling Problem
 
 main.py - code for solution tasks corresponding to Scheduling Problem
