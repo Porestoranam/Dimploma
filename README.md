@@ -1,5 +1,5 @@
 # Diploma
-Implementation algorithms of Scheduling Problem
+Implementation algorithms for solving Scheduling Problem. This task is NP but there are polynomial approximation algorithms which have solutions close to real of in initial task. I considered one variation and evaluated precision of approximation.
 
 main.py - code for solution tasks corresponding to Scheduling Problem
 
